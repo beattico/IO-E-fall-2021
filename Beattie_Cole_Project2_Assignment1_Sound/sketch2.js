@@ -6,6 +6,8 @@
 // This is a sketch that uses the mousePressed function to play an evil Witch laugh. When the mouse is pressed, the sound plays and a Witch appears.
 // Adapted and motified from Week 6 - Load Sounds Class Example
 
+// Sound used from: https://www.epidemicsound.com/sound-effects/search/?term=evil%20laugh
+
 let song;
 
 function setup(){
