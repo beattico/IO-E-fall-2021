@@ -7,6 +7,8 @@
 // This is a sketch that uses the keyPressed function to display an orange monster and play a blinking sound when a key is pressed.
 // Adapted and motified from Week 6 - Load Sounds Class Example
 
+// Sound used from: https://www.epidemicsound.com/sound-effects/search/?term=blink%20twice
+
 let song;
 
 function setup(){
